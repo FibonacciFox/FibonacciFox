@@ -70,12 +70,7 @@ var me = new Developer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FibonacciFox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FibonacciFox&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=FibonacciFox&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=FibonacciFox&theme=tokyonight&hide_border=true&mode=weekly" />
 
 <br/><br/>
 
