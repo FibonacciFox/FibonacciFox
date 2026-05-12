@@ -44,17 +44,6 @@ var me = new Developer
 
 ---
 
-## 🚀 Current focus
-
-- 🧩 **PeachPie + Avalonia** — experiments with running PHP UI apps on top of .NET and Avalonia
-- 🛠️ **Roslyn / Microsoft.CodeAnalysis porting** — adapting modern compiler infrastructure for PeachPie
-- 🎮 **Game-dev UI experiments** — Avalonia inside Unity / MonoGame-style rendering pipelines
-- 🖥️ **Desktop tooling** — designers, visual scripting, IDE-like interfaces and developer tools
-- 🌐 **Network/router tools** — Keenetic automation and VPN-related experiments
-- 📦 **Developer libraries** — icons, controls, loaders, bindings and utility packages
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -74,38 +63,6 @@ var me = new Developer
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
-
----
-
-## ⭐ Featured Projects
-
-### 🧡 PeachPie / Avalonia / Roslyn
-
-| Project | Description |
-|---|---|
-| [`Peachpie.Avalonia`](https://github.com/FibonacciFox/Peachpie.Avalonia) | Experiments with Avalonia UI and PeachPie |
-| [`PeachpieAvaloniaSamples`](https://github.com/FibonacciFox/PeachpieAvaloniaSamples) | Sample PHP/Avalonia applications |
-| [`Peachpie.Microsoft.CodeAnalysis`](https://github.com/FibonacciFox/Peachpie.Microsoft.CodeAnalysis) | Roslyn fork modified for PeachPie |
-| [`peachpie`](https://github.com/FibonacciFox/peachpie) | PHP compiler and runtime for .NET / .NET Core |
-
-### 🎮 Game-dev and rendering experiments
-
-| Project | Description |
-|---|---|
-| [`Avalunity`](https://github.com/FibonacciFox/Avalunity) | Avalonia for Unity experiments |
-| [`MonoLonia`](https://github.com/FibonacciFox/MonoLonia) | Avalonia in MonoGame |
-| [`MonoGame.AvaloniaHost`](https://github.com/FibonacciFox/MonoGame.AvaloniaHost) | Hosting MonoGame inside Avalonia |
-| [`DungeonSlime`](https://github.com/FibonacciFox/DungeonSlime) | Game/dev sandbox project |
-
-### 🧩 UI tooling and developer experience
-
-| Project | Description |
-|---|---|
-| [`JetBrains.Icons.Avalonia`](https://github.com/FibonacciFox/JetBrains.Icons.Avalonia) | JetBrains-style icons for Avalonia UI |
-| [`DesignerPanel`](https://github.com/FibonacciFox/DesignerPanel) | UI designer experiments |
-| [`DesignerApp`](https://github.com/FibonacciFox/DesignerApp) | Avalonia designer application |
-| [`NodifyExample`](https://github.com/FibonacciFox/NodifyExample) | Visual scripting experiments |
-| [`ProjectMsBuildLoader`](https://github.com/FibonacciFox/ProjectMsBuildLoader) | Loading, compiling and running controls from MSBuild projects |
 
 ---
 
